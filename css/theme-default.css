@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #ef4035;
+  --primary: #FF0062;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -2515,8 +2515,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #ef4035;
-  border-color: #ef4035;
+  background-color: #FF0062;
+  border-color: #FF0062;
 }
 
 .btn-primary:hover {
@@ -9327,11 +9327,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #ef4035 !important;
+  color: #FF0062 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #df1e12 !important;
+  color: #FF0062 !important;
 }
 
 .text-secondary {
@@ -9515,7 +9515,7 @@ hr.primary {
   border-bottom-width: 1px;
   border-style: solid;
   height: 0.125rem;
-  border-color: #ef4035;
+  border-color: #FF0062;
 }
 
 hr.small {
@@ -10233,3 +10233,23 @@ form .row:first-child .floating-label-form-group {
     background-attachment: fixed;
   }
 }
+#pricing{
+  padding: 30px;
+  position: relative;
+  background-color: #000;
+  box-sizing: border-box;
+}
+
+.price-money{
+  color: #00BBFD;
+  font-size: 42px;
+  padding-top: 18px;
+}
+.price-integer{
+  font-size: 120px;
+}
+.price-decimal{
+  font-size: 42px;
+  padding-top: 18px;
+}
+
