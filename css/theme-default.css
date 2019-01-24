@@ -10247,6 +10247,7 @@ form .row:first-child .floating-label-form-group {
 }
 .price-integer{
   font-size: 120px;
+  color:#FF0062;
 }
 .price-decimal{
   font-size: 42px;
