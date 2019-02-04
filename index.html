@@ -693,7 +693,7 @@
           <h2 class="page-section-heading text-uppercase text-center">Contactanos</h2>
           <p class="lead m-0 text-center">Iniciemos un proyecto juntos</p>
           <hr class="primary small mb-5">
-          <form  action="https://docs.google.com/forms/d/e/1FAIpQLSf9e3A7lCqIWgWUEkxzQsDiJ9UE3f7lmGDojVBo5a3pf1ko-w/formResponse?" name="gform" id="gform" enctype="text/plain" TARGET="hidden_iframe" onsubmit="submitted=true;">
+          <form  action="https://docs.google.com/forms/d/e/1FAIpQLSf9e3A7lCqIWgWUEkxzQsDiJ9UE3f7lmGDojVBo5a3pf1ko-w/formResponse?" name="gform" id="gform" enctype="text/plain" TARGET="hidden_iframe" onsubmit="submitted=true;fbq('track', 'CompleteRegistration');">
             <div class="row control-group">
               <div class="form-group col-12 floating-label-form-group controls">
                 <label>Nombre</label>
@@ -726,7 +726,9 @@
             <div id="success"></div>
             <div class="row">
               <div class="form-group col-12">
-                <button type="submit"  value="submit" class="btn btn-outline-primary">Contactanos</button>
+
+                <button type="submit" id="BotonEnviar" value="submit" class="btn btn-outline-primary">Contactanos</button>
+
               </div>
              </div>
           </form>
@@ -814,9 +816,14 @@
     $('#gform *').fadeOut(2000);
     $('#gform').prepend('Solicitud Enviada');
     $('#gform *').fadeIn(5000);
+    fbq('track', 'CompleteRegistration');
   });
 </script>
-
+<script type="text/javascript">
+  $( '#BotonEnviar' ).click(function() {
+    fbq('track', 'CompleteRegistration');
+    console.log('funciona')
+</script>
 </body>
 
 
