@@ -7,8 +7,8 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Smart Talks Perú es una empresa de desarrollo y diseño web. Que tiene como fuerte el anilisis de datos y el growth marketing">
-  <meta name="keywords" content="Growth hacking,Growth Marketing,SEO">
+  <meta name="description" content="Smart Talks Perú es una empresa de desarrollo y diseño web. Que tiene como proposito sacar el maximo rendimiento posible a tu web mendiante el análisis de datos y el growth marketing. Entra y obtén una evaluación gratuita!, es hora de comenzar a vender">
+  <meta name="keywords" content="Growth hacking,Growth Marketing,SEO,Crear pagina web">
   <meta name="author" content="Carlos Garcia">
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -818,7 +818,7 @@
     writeLeadData(name,email,cellphone,message);
   }
   function writeLeadData(name, email,cellphone,message) {
-    firebase.database().ref('leads/' + name).set({
+    firebase.database().ref('leads').push({
       name: name,
       email: email,
       cellphone: cellphone,

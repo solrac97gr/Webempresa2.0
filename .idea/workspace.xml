@@ -2,162 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5ca135e-b094-4e6f-ba39-f5235bc3f4a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/theme-default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/fancybox/jquery.fancybox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/css/device-mockups.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Chromebook/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/HtcOneM8/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/HtcOneM8/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/HuaweiP8/landscape_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/HuaweiP8/portrait_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Lumia930/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Lumia930/landscape_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Lumia930/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Lumia930/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Macbook/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Macbook/portrait_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Macbook/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Macbook2015/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Macbook2015/portrait_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Macbook2015/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/MacbookPro/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Pixel/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Pixel/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/SamsungTV/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/Surface/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/SurfacePro3/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/SurfaceStudio/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/galaxyS3/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/galaxyS3/landscape_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/galaxyS3/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/galaxyS3/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/galaxyS5/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/galaxyS5/landscape_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/galaxyS5/landscape_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/galaxyS5/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/galaxyS5/portrait_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/galaxyS5/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/galaxyTab4/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/galaxyTab4/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iMac/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPad/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPad/landscape_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPad/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPad/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPadAir2/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPadAir2/landscape_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPadAir2/landscape_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPadAir2/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPadAir2/portrait_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPadAir2/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPadPro/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPadPro/landscape_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPadPro/landscape_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPadPro/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPadPro/portrait_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPadPro/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone5/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone5/landscape_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone5/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone5/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6/landscape_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6/landscape_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6/portrait_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6Hand/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6Hand/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6Plus/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6Plus/landscape_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6Plus/landscape_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6Plus/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6Plus/portrait_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone6Plus/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone7/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone7/landscape_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone7/landscape_pink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone7/landscape_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone7/landscape_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone7/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone7/portrait_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone7/portrait_pink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone7/portrait_red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone7/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone7Hand/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhone7Hand_2/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhoneSE/landscape_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhoneSE/landscape_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhoneSE/landscape_pink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhoneSE/landscape_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhoneSE/portrait_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhoneSE/portrait_gold.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhoneSE/portrait_pink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/html5-device-mockups/device-mockups/iPhoneSE/portrait_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor/slick-carousel/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/css/all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-brands-400d41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-regular-400d41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-free/webfonts/fa-solid-900d41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-callout.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-callout_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-footer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bg-masthead.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/fondo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/fondo_mac.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo negro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo-masthead.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo-navbar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo_blanco.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/carousel/item-1-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/carousel/item-1-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/carousel/item-2-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/carousel/item-2-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/carousel/item-3-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/carousel/item-3-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/carousel/item-4-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/carousel/item-4-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/grid/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/grid/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/grid/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/grid/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/grid/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/grid/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/Carlosgarcia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/mafer.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/mariafernandarengifo.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/contact.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/contact.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/validation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/bootstrap/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/fancybox/jquery.fancybox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/jquery-easing/jquery.easing.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/slick-carousel/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.rules.json" beforeDir="false" afterPath="$PROJECT_DIR$/database.rules.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -170,23 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.firebaserc">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.firebase/hosting.cHVibGlj.cache">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2951" />
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="299">
+              <caret line="13" column="68" lean-forward="true" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -209,6 +43,7 @@
       <find>suscri</find>
       <find>item-1-bg</find>
       <find>sendform</find>
+      <find>writ</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -221,6 +56,7 @@
         <option value="$PROJECT_DIR$/js/contact.php" />
         <option value="$PROJECT_DIR$/css/theme-default.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/database.rules.json" />
         <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
@@ -249,48 +85,6 @@
               <item name="WebEmpresa2.0" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebEmpresa2.0" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebEmpresa2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebEmpresa2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebEmpresa2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebEmpresa2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-              <item name="fontawesome-free" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebEmpresa2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebEmpresa2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-              <item name="fontawesome-free" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebEmpresa2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebEmpresa2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-              <item name="fontawesome-free" type="462c0819:PsiDirectoryNode" />
-              <item name="webfonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebEmpresa2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebEmpresa2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebEmpresa2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebEmpresa2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -336,18 +130,18 @@
       <workItem from="1548700399528" duration="40000" />
       <workItem from="1549263947851" duration="593000" />
       <workItem from="1549296868478" duration="835000" />
-      <workItem from="1549300784243" duration="4028000" />
+      <workItem from="1549300784243" duration="5986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35586000" />
+    <option name="totallyTimeSpent" value="37544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1920" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -359,7 +153,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19846492" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19846492" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -442,13 +236,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database.rules.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/firebase.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firestore.rules">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/storage.rules">
@@ -476,17 +264,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.firebaserc">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.rules.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.firebase/hosting.cHVibGlj.cache">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2951" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/firestore.rules">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="299">
+          <caret line="13" column="68" lean-forward="true" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
         </state>
       </provider>
     </entry>
