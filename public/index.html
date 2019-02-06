@@ -69,9 +69,6 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#process">Como funcionamos</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#portfolio-carousel">Portafolio</a>
-          </li>
           <li class="nav-item" style="display: none">
             <a class="nav-link js-scroll-trigger" href="#testimonials">Testimonios</a>
           </li>
@@ -97,8 +94,8 @@
           <hr class="primary small">
           <div class="masthead-subtitle">Diseño & Desarrollo Web</div>
           <div class="text-center">
-            <a class="btn btn-outline-light js-scroll-trigger text-center" style="margin: 60px"  id="#botonhero" onclick="ga('send', 'event', 'calltoactionclick', 'clic', 'hero', 0);" href="#contact"><span style="color: #FF0062">Asesoría gratuita</span></a>
-            <a class="btn btn-outline-light js-scroll-trigger text-center" onclick="gtag('event', 'evento', { 'event_category': 'categoria', 'event_action': 'accion', 'event_label': 'wapp', 'value': 'valor'});" target="_blank" href="https://api.whatsapp.com/send?phone=51939169253&text=Hola, me pueden dar información ">Escríbenos a whatsapp</a>
+            <a class="btn btn-outline-light js-scroll-trigger text-center" style="margin: 15px"  id="#botonhero" onclick="ga('send', 'event', 'calltoactionclick', 'clic', 'hero', 0);" href="#contact"><span>Asesoría gratuita</span></a>
+            <a class="btn btn-outline-light js-scroll-trigger text-center"  style="margin: 15px" onclick="gtag('event', 'evento', { 'event_category': 'categoria', 'event_action': 'accion', 'event_label': 'wapp', 'value': 'valor'});" target="_blank" href="https://api.whatsapp.com/send?phone=51939169253&text=Hola, me pueden dar información ">Escríbenos a whatsapp</a>
           </div>
         </div>
       </div>
@@ -294,7 +291,7 @@
   <!-- * Portfolio Section - Carousel * -->
   <!-- * * * * * * * * * * * * * * * * * -->
 
-  <section id="portfolio-carousel">
+  <section id="portfolio-carousel" style="display: none">
     <div class="carousel-portfolio">
       <!-- Portfolio Carousel - Item 1 -->
       <div class="carousel-portfolio-item first-item bg-dark text-center text-lg-left">
@@ -593,7 +590,7 @@
   <!-- * Testimonials Section * -->
   <!-- * * * * * * * * * * * * * -->
 
-  <section class="page-section bg-light" style="display: none" id="testimonials">
+  <section class="page-section bg-light"  style="display: none" id="testimonials">
     <div class="container">
       <div class="row">
         <div class="col-lg-10 mx-auto">
@@ -631,7 +628,7 @@
       <hr class="primary small mb-5">
       <h3 class="text-white-50 text-center" style="font-weight: lighter">Desde</h3>
       <div class="text-center">
-        <span class="price-money">S/.</span><span class="price-integer">299</span><span class="price-decimal">99</span>
+        <span class="price-money">S/.</span><span class="price-integer">199</span><span class="price-decimal">99</span>
       </div>
       <div class="text-center">
         <a class="btn btn-outline-light js-scroll-trigger" style="margin: 60px" onclick="ga('send', 'event', 'calltoactionclick', 'clic', 'pricing', 0);" href="#contact"><span style="color: #FF0062">Evalúame gratis</span></a>
@@ -643,31 +640,24 @@
   <!-- * Callout Section - Signup * -->
   <!-- * * * * * * * * * * * * * * * -->
 
-  <section class="page-section bg-black" style="display: none">
-    <div class="container">
-      <h3 class="text-uppercase mb-0 text-center text-white">Suscríbete para recibir ofertas</h3>
+  <section class="page-section bg-light">
+    <div class="container text-center align-content-center">
+      <h3 class="text-uppercase mb-0 text-center text-black">Integraciones</h3>
       <hr class="primary small mb-4">
-      <div class="row">
-        <div class="col-lg-10 col-xl-8 mx-auto">
-          <!-- MailChimp Signup Form -->
-          <div id="mc_embed_signup">
-            <!-- Replace the form action in the line below with your MailChimp embed action! Visit the documentation for additional instructions! -->
-            <form role="form" action="http://startbootstrap.us3.list-manage.com/subscribe/post?u=531af730d8629808bd96cf489&amp;id=afb284632f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate="novalidate">
-              <div class="input-group">
-                <input type="email" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="Email address...">
-                <div class="input-group-append">
-                  <button type="submit" name="subscribe" id="mc-embedded-subscribe"  onclick="ga('send', 'event', 'calltoactionclick', 'clic', 'suscribete', 0);" class="btn btn-primary">Subscribe!</button>
-                </div>
-              </div>
-              <div id="mce-responses">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-              </div>
-            </form>
-          </div>
-          <!-- End MailChimp Signup Form -->
-        </div>
-      </div>
+    </div>
+    <div class="container text-center">
+      <picture>
+        <img style="margin: 30px;" width="250px" height="250px" class="img-fluid" src="https://scontent.flim13-1.fna.fbcdn.net/v/t39.2365-6/28985538_1634015629967706_6299852360415969280_n.png?_nc_cat=100&_nc_ht=scontent.flim13-1.fna&oh=5ac23229a54d40b10f210bfdd87ae464&oe=5CFD69AB">
+      </picture>
+      <picture>
+        <img  style="margin: 30px;" width="200px" height="200px" class="img-fluid" src="https://davidwalsh.name/demo/hotjar-sponsored/hotjar-XL.png" alt="">
+      </picture>
+      <picture>
+        <img  style="margin: 30px;" width="200px" height="200px" class="img-fluid" src="https://developers.google.com/analytics/images/terms/logo_lockup_analytics_icon_vertical_black_2x.png" alt="">
+      </picture>
+      <picture>
+      <img   style="margin: 30px;" width="200px" height="200px" class="img-fluid" src="https://wwwidentoes-ans9ff0uc6be.stackpathdns.com/wp-content/uploads/2014/09/google-tag-manager-que-es-750x438.png" alt="">
+      </picture>
     </div>
   </section>
 
@@ -675,7 +665,7 @@
   <!-- * Contact Section * -->
   <!-- * * * * * * * * * * -->
 
-  <section class="page-section" id="contact">
+  <section class="page-section bg-white"  id="contact">
     <div class="container">
       <div class="row">
         <div class="col-lg-10 col-xl-8 mx-auto">
@@ -716,7 +706,7 @@
             <div class="row">
               <div class="form-group col-12">
 
-                <button type="submit" id="BotonEnviar" value="submit"  class="btn btn-outline-primary">Contactanos</button>
+                <button type="submit" id="BotonEnviar" value="submit"  class="btn btn-outline-dark">Contactanos</button>
 
               </div>
              </div>
