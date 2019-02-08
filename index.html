@@ -621,7 +621,7 @@
     </div>
   </section>
 
-   <section ID="pricing">
+   <section ID="pricing" style="display: none">
     <div class="container">
       <h2 class="pricing-title text-center text-white">CONSIGUE TU WEB</h2>
 
@@ -640,7 +640,7 @@
   <!-- * Callout Section - Signup * -->
   <!-- * * * * * * * * * * * * * * * -->
 
-  <section class="page-section bg-light">
+  <section class="page-section bg-warning" id="integrations">
     <div class="container text-center align-content-center">
       <h3 class="text-uppercase mb-0 text-center text-black">Integraciones</h3>
       <hr class="primary small mb-4">
@@ -687,27 +687,14 @@
                 <p class="help-block text-danger"></p>
               </div>
             </div>
-            <div class="row control-group">
-              <div class="form-group col-12 floating-label-form-group controls">
-                <label>Phone Number</label>
-                <input type="tel" name="entry.400040999" class="form-control" placeholder="Celular" id="cellphone" required="required" data-validation-required-message="Ingresa un telefono celular.">
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <div class="row control-group">
-              <div class="form-group col-12 floating-label-form-group controls">
-                <label>Message</label>
-                <textarea name="entry.1542432128" rows="5" class="form-control" placeholder="Mensaje" id="message" required="required" data-validation-required-message="Ingresa un mensaje."></textarea>
-                <p class="help-block text-danger"></p>
-              </div>
-            </div>
-            <br>
+           <br>
             <div id="success"></div>
             <div class="row">
               <div class="form-group col-12">
 
                 <button type="submit" id="BotonEnviar" value="submit"  class="btn btn-outline-dark">Contactanos</button>
-
+                <a class="btn btn-outline-dark js-scroll-trigger text-center"  style="margin: 15px" onclick="gtag('event', 'evento', { 'event_category': 'categoria', 'event_action': 'accion', 'event_label': 'wapp', 'value': 'valor'});" target="_blank" href="https://api.whatsapp.com/send?phone=51939169253&text=Hola, me pueden dar información ">Escríbenos a whatsapp</a>
+              </div>
               </div>
              </div>
           </form>
@@ -793,16 +780,13 @@
     fbq('track', 'CompleteRegistration');
     var name = document.getElementById('name').value;
     var email = document.getElementById('email').value;
-    var cellphone = document.getElementById('cellphone').value;
-    var message = document.getElementById('message').value;
-    writeLeadData(name,email,cellphone,message);
+
+    writeLeadData(name,email);
   }
-  function writeLeadData(name, email,cellphone,message) {
+  function writeLeadData(name, email) {
     firebase.database().ref('leads').push({
       name: name,
       email: email,
-      cellphone: cellphone,
-      message:message,
     });
   }
 </script>
