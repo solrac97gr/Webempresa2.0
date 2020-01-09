@@ -5,6 +5,6 @@
 
 Web created for a small development agency that I did a while ago. It is no longer operational but I keep it with love.Interesting things I learned in this project was to connect a web form with a google form, to solve the problem of not having backend since it was hosted on github and at that time I did not know serverless.
 
-<p align="center"><img src="https://i.imgur.com/ZRtE1xy.png" width="400" /></p>
+<p align="center"><img src="https://i.imgur.com/yGG7saJ.png" width="400" /></p>
 
-<p align="center"><img src="https://i.imgur.com/I3UTRJm.png" width="200" /><img src="https://i.imgur.com/UB47cGK.png" width="200" /></p>
+<p align="center"><img src="https://i.imgur.com/sbr8p0u.png" width="200" /><img src="https://i.imgur.com/3LvBmrH.png" width="200" /></p>
