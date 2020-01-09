@@ -10,8 +10,7 @@ Web created for a small development agency that I did a while ago. It is no long
 <p align="center"><img src="https://i.imgur.com/sbr8p0u.png" width="200" /><img src="https://i.imgur.com/3LvBmrH.png" width="200" /></p>
 
 ```
-
- <form  action="https://docs.google.com/forms/d/e/1FAIpQLSf9e3A7lCqIWgWUEkxzQsDiJ9UE3f7lmGDojVBo5a3pf1ko-w/formResponse?" name="gform" id="gform" enctype="text/plain" TARGET="hidden_iframe" onsubmit="sendform()">
+<form  action="https://docs.google.com/forms/d/e/1FAIpQLSf9e3A7lCqIWgWUEkxzQsDiJ9UE3f7lmGDojVBo5a3pf1ko-w/formResponse?" name="gform" id="gform" enctype="text/plain" TARGET="hidden_iframe" onsubmit="sendform()">
             <div class="row control-group">
               <div class="form-group col-12 floating-label-form-group controls">
                 <label>Nombre</label>
@@ -37,7 +36,8 @@ Web created for a small development agency that I did a while ago. It is no long
               </div>
              </div>
           </form>
-          <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>```
+          <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+```
           
 
 ```javascript
