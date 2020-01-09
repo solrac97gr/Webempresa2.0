@@ -1,5 +1,5 @@
-<p align="center"><a href="https://solrac97gr.github.io/web_empresa/" target="_blank" rel="noopener noreferrer">
-<img src="https://solrac97gr.github.io/web_empresa/img/logo-masthead.png" alt="drawing" width="150"/></a></p>
+<p align="center"><a href="https://solrac97gr.github.io/websigth/" target="_blank" rel="noopener noreferrer">
+<img src="https://solrac97gr.github.io/websigth/img/logo-masthead.png" alt="drawing" width="150"/></a></p>
 
 <h2 align="center">Websigth | Closed</h2>
 
